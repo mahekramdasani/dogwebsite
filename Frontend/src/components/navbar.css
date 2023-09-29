@@ -1,0 +1,13 @@
+.nav-link {
+  color: white;
+}
+li{
+  /* margin: 10px 20px; */
+}
+.bg-dark {
+  background-color: #0A2342 !important;
+}
+.dropdown-menu{
+  background-color: #0A2342 !important;
+  color:white;  
+}
